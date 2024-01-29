@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16974726706",
+    "project_id": "lenovarusticia-8b130",
+    "storage_bucket": "lenovarusticia-8b130.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16974726706:android:832417901e8c1c0f41de2b",
+        "android_client_info": {
+          "package_name": "com.lenovaustisica.lenovarustisia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RbfwCRbcMdZXJ_CpNXuh9aPw36X1qlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

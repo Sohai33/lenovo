@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBxQ9REcQKVY17lCqn_Wa-cP8T4MuIMeIc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517394729230</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.lenovaustisica.lenovarustisia</string>
+	<key>PROJECT_ID</key>
+	<string>lenovarusticia</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lenovarusticia.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517394729230:ios:aa665c42fe6e87a90f6f5f</string>
+</dict>
+</plist>
